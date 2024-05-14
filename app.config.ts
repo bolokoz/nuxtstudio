@@ -1,8 +1,8 @@
 // https://github.com/nuxt-themes/alpine/blob/main/nuxt.schema.ts
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
-    description: 'The minimalist blog theme',
+    title: 'Parmegianólogo',
+    description: 'Review de parmegianas',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
